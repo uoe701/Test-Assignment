@@ -11,4 +11,4 @@ To complete this assignment please:
 6. Add another text file to the GitHub repository with your favourite animal in it from your own computer and push that change to the repository using Git in RStudio.
 7. Add the course logo to your repository.
 8. Add the course logo to your readme file.
-9. Submit your assignment!
+
