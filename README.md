@@ -12,5 +12,3 @@ To complete this assignment please:
 7. Add the course logo to your repository.
 8. Add the course logo to your readme file.
 9. Submit your assignment!
-
-If you have any questions bring them to the Thursday sessions of the Data Science in EES course.
